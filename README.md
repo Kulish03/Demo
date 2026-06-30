@@ -1,4 +1,4 @@
 # Demo
 This is demo repository.
 <br>
-Author- Kulish Chhonkar
+Author- Kulish Chhonkar(developer)
